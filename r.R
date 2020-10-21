@@ -4,5 +4,6 @@ Dts1<- read.csv("coches1.csv")
 ## entrada de datos ####
 
 ## limpieza ####
+#hola#####
 ## outcomes ####
 
